@@ -1,4 +1,4 @@
-,Temp (°C),Dew Point Temp (°C),Rel Hum (%),Stn Press (kPa),Wind Spd (km/h)
+id,Tas,Td,RH,Ps,Wsp
 0,2.0,-1.1,80,103.12,8
 1,1.6,-1.1,82,103.08,14
 2,1.9,-1.3,79,103.12,10
